@@ -23,7 +23,7 @@ This project is a sleek, modern calculator web application designed for professi
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/professional-calculator.git
+   git clone https://github.com/amineLakehal/professional-calculator.git
    ```
 
 2. Navigate to the project directory:
